@@ -147,6 +147,7 @@ uploadButton.onchange = () => {
 Aquí se usa la API FileReader para cargar la imagen seleccionada por el usuario y mostrarla en el editor.
 
 ## 🎨 Diseño Responsive
+
 El CSS utiliza unidades relativas (vmin) y un diseño basado en grid para asegurar que la aplicación se vea bien en diferentes tamaños de pantalla:
 
 ```css
