@@ -110,7 +110,7 @@ Para ejecutar localmente o contribuir al proyecto:
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/basic-image-editor.git
+    git clone https://github.com/Seb-RM/Javasript_Html_Css-Image-Editor.git
     ```
 
 1. Abre el archivo `index.html` en tu navegador
