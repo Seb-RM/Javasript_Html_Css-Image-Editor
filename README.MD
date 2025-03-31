@@ -157,4 +157,3 @@ El CSS utiliza unidades relativas (vmin) y un diseño basado en grid para asegur
     grid-template-columns: 5fr 7fr;
 }
 ```
-🤝 Contribuciones
